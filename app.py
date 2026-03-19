@@ -4,7 +4,7 @@ import psycopg2
 from datetime import datetime
 
 # --- LINKS REAIS E TESTADOS (DIRETOS) ---
-LINK_NEXXUS = "https://i.imgur.com/mOId99i.png"
+LINK_NEXXUS = "https://www.canva.com/design/DAHEaoA5TK4/7dLaNaPjvhL0P1mEbIpKUg/edit?utm_content=DAHEaoA5TK4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
 LINK_CONSENSO = "https://i.imgur.com/vHqY7eK.png"
 
 # --- 1. FUNÇÃO DE CONEXÃO ---
