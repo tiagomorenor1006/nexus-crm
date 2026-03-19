@@ -5,7 +5,7 @@ from datetime import datetime
 
 # --- LINKS REAIS E TESTADOS (DIRETOS) ---
 LINK_NEXXUS = "https://i.ibb.co/1f223K8k/Nexus-CRM.png"
-LINK_CONSENSO = "https://i.imgur.com/vHqY7eK.png"
+LINK_CONSENSO = "https://www.consensotec.com.br/assets/images/brand/consenso-b.svg"
 
 # --- 1. FUNÇÃO DE CONEXÃO ---
 def get_connection():
